@@ -24,7 +24,7 @@ print("Exponentiation of a given number:",base**exponent)
 ```
 
 ## Output:
-![exponentiation of a number](./images/exponention.png.png)
+![exponentiation of a number](expo1.jpeg)
 
 
 ## Result:
